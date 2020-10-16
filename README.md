@@ -6,5 +6,5 @@ Cucumber, Selenium WebDriver, Java, Page Objects
 
 <h2>Running Test</h2>
 
-<img src="https://user-images.githubusercontent.com/53864826/96322690-76861b00-0ff0-11eb-8421-37a747d6735f.gif" width="709" height="400" />
+<img src="https://user-images.githubusercontent.com/53864826/96322690-76861b00-0ff0-11eb-8421-37a747d6735f.gif" width="400" height="790" />
 
